@@ -62,21 +62,10 @@ Estudo transversal que investiga a permanência de artigos científicos retratad
 
 `Data Collection` `Data Filtering` `Exploratory Data Analysis` `Descriptive Statistics` `Correlation Analysis` `Scientific Literature Analysis`
 
-📄 **[Leia o artigo](./02_artigos_retratados_redes_academicas/artigo_retratacoes_redes_academicas.pdf)**
+📄 **[Leia o artigo](Artigo[41] An analysis of the persistent availability of unmarked retracted articles in academic social networks - final reviewed.pdf)**
 
 ---
 
-## 💻 Áreas de interesse
-
-* **Data Science**
-* **Machine Learning**
-* **Bioestatística**
-* **Epidemiologia**
-* **Health Data**
-* **Scientific Data Analysis**
-* **Research Integrity**
-
----
 
 ## 🚀 Próximos projetos
 
