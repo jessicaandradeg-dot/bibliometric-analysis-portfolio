@@ -1,77 +1,108 @@
 # Data Science Portfolio
 
-**Jéssica de Andrade Gomes**
-Mestre e Doutoranda em Engenharia Biomédica — **UFRJ/COPPE**
+## Jéssica de Andrade Gomes
 
-Este repositório reúne projetos de pesquisa e análise de dados desenvolvidos ao longo da minha formação acadêmica, com foco em **Data Science, Bioestatística, Machine Learning, Epidemiologia e dados em saúde**.
+**Mestre e Doutoranda em Engenharia Biomédica — UFRJ/COPPE**
+
+Este repositório reúne projetos e estudos desenvolvidos ao longo da minha trajetória acadêmica, com foco em **Data Science, Bioestatística, Machine Learning, Epidemiologia e análise de dados científicos e em saúde**.
+
+Os projetos apresentados demonstram experiências com **tratamento e exploração de dados, análise estatística, classificação, análise bibliométrica, análise de redes e interpretação de resultados**.
 
 ---
 
-## 🔬 Projetos
+## Projetos
 
 ### 01. Scientific Retractions by Brazilian Authors in Engineering
 
-**Artigo:** *Scientific Retractions by Brazilian Authors in Engineering: A Descriptive Study Using the Retraction Watch/Crossref Database*
+**Scientific Retractions by Brazilian Authors in Engineering: A Descriptive Study Using the Retraction Watch/Crossref Database**
 
-Estudo descritivo sobre retrações científicas envolvendo autores com afiliação brasileira na área de Engenharia, utilizando a base **Retraction Watch/Crossref**.
+Estudo descritivo sobre retratações científicas envolvendo autores brasileiros na área de Engenharia, utilizando dados da **Retraction Watch/Crossref**.
 
-**Análise realizada:**
+A análise partiu de uma base com **71.106 registros** e investigou inicialmente a ocorrência de retratações relacionadas à Engenharia Biomédica. Como não foram identificados casos específicos da área, o estudo foi ampliado para diferentes subáreas da Engenharia.
 
-* Base com **71.106 registros**
-* Filtragem de registros relacionados ao **Brasil**
-* Investigação inicial em **Engenharia Biomédica**
-* Expansão para diferentes subáreas da Engenharia
-* Amostra final de **29 retrações**
-* Classificação dos motivos das retrações
-* Análise descritiva por categoria e subárea
+Foram identificados **29 casos**, posteriormente classificados segundo os principais motivos de retratação, incluindo fraude/erro/problemas com dados, plágio/duplicação e outras razões.
 
-**Principais competências:**
+**Competências demonstradas:**
 
-`Data Cleaning` `Data Filtering` `Descriptive Statistics` `Data Classification` `Research Data Analysis` `Scientific Databases`
+* Data Cleaning
+* Data Filtering
+* Descriptive Statistics
+* Data Classification
+* Scientific Data Analysis
+* Scientific Databases
+* Research Data Analysis
 
-📄 [Leia o artigo completo](./artigo_retracoes_engenharia.pdf)
+📄 **[Leia o artigo completo](./artigo_retracoes_engenharia.pdf)**
 
 ---
 
-### 02. Persistence of Unmarked Retracted Articles in Academic Social Networks
+### 02. Persistent Availability of Unmarked Retracted Articles in Academic Social Networks
 
-**Artigo:** *An analysis of the persistent availability of unmarked retracted articles in academic social networks*
+**An analysis of the persistent availability of unmarked retracted articles in academic social networks**
 
-Estudo transversal que investiga a permanência de artigos científicos retratados em plataformas acadêmicas sem indicação clara de sua retratação.
+Estudo transversal sobre a permanência de artigos científicos retratados sem indicação clara de retratação em redes acadêmicas, com foco em **ResearchGate** e **Academia.edu**.
 
-**Análise realizada:**
+Foram analisados artigos retratados de autores brasileiros na área de Ciências da Saúde, publicados entre **2010 e 2020**, utilizando dados da **Retraction Watch**.
 
-* Dados da **Retraction Watch**
-* Artigos relacionados ao **Brasil**
-* Área de **Ciências da Saúde**
-* Publicações entre **2010 e 2020**
-* Análise das plataformas **ResearchGate e Academia.edu**
-* Dados de citações do **Google Scholar**
-* Comparação entre citações antes e após a retratação
-* **Correlação de Spearman**
+Entre os resultados, foram selecionadas **66 retratações**, das quais **22 artigos completos** e **7 resumos** permaneciam disponíveis sem marcação de retratação. Também foram analisadas citações posteriores à retratação, totalizando **730 citações para os artigos completos** e **166 para os resumos**.
 
-**Principais resultados:**
+A relação entre o número de citações pós-retratação e o tempo foi investigada por meio da **correlação de Spearman**.
 
-* **66 retrações** atenderam aos critérios do estudo
-* **22 artigos completos** foram encontrados sem indicação de retratação
-* Foram identificados ainda **7 resumos** sem indicação de retratação
-* Os artigos completos apresentaram **730 citações pós-retratação**
-* A correlação entre tempo até a retratação e citações pós-retratação não foi estatisticamente significativa (**ρ = −0,108; p = 0,631**)
+**Competências demonstradas:**
 
-**Principais competências:**
+* Data Collection
+* Data Filtering
+* Exploratory Data Analysis
+* Descriptive Statistics
+* Correlation Analysis
+* Scientific Literature Analysis
+* Research Data Analysis
 
-`Data Collection` `Data Filtering` `Exploratory Data Analysis` `Descriptive Statistics` `Correlation Analysis` `Scientific Literature Analysis`
+📄 **[Leia o artigo completo](./artigo_retracoes_redes_academicas.pdf)**
 
-📄 [Leia o artigo completo](./artigo_retracoes_redes_academicas.pdf)
+---
+
+### 03. Problem-Based Learning in Medical Education
+
+**Problem-Based Learning in Medical Education: A Global Research Landscape of the Last Ten Years (2013–2022)**
+
+Estudo bibliométrico sobre a produção científica relacionada à **Aprendizagem Baseada em Problemas (Problem-Based Learning — PBL)** na educação médica entre 2013 e 2022.
+
+A pesquisa utilizou dados da **Web of Science Core Collection** para investigar a evolução da produção científica, principais periódicos, áreas de pesquisa, países, instituições e padrões de colaboração científica.
+
+O estudo também empregou **análise de redes** para explorar relações e padrões de colaboração na produção científica sobre o tema.
+
+**Competências demonstradas:**
+
+* Bibliometric Analysis
+* Scientific Data Analysis
+* Data Visualization
+* Network Analysis
+* Research Analytics
+* Scientific Literature Mining
+* Collaboration Network Analysis
+
+📄 **[Leia o artigo completo](./artigo_pbl_medical_education.pdf)**
+
+🔗 **[Ver publicação na Springer Nature](https://link.springer.com/article/10.1007/s40670-024-02003-1)**
+
+---
 
 
-## 🚀 Próximos projetos
+## Próximos Projetos
 
-Este portfólio será expandido com projetos envolvendo:
+Este portfólio será ampliado com projetos envolvendo:
 
-* **Machine Learning aplicado à saúde**
 * **Predição de readmissão neonatal**
-* **Análise de grandes bases públicas de saúde**
-* **Modelos estatísticos**
-* **Visualização de dados**
-* **Data preprocessing e feature engineering**
+* **Machine Learning aplicado a dados de saúde**
+* **Integração e linkage de bases de dados do SUS**
+* **Análise de grandes bases de dados epidemiológicos**
+* **Modelos estatísticos e de aprendizado de máquina**
+
+---
+
+## Contato
+
+**LinkedIn:** [linkedin.com/in/jessicadeandrade27](https://www.linkedin.com/in/jessicadeandrade27)
+
+**GitHub:** [github.com/jessicaandradeg-dot](https://github.com/jessicaandradeg-dot)
