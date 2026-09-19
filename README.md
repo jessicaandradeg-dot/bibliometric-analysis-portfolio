@@ -4,9 +4,9 @@
 
 **Mestre e Doutoranda em Engenharia Biomédica — UFRJ/COPPE**
 
-Este repositório reúne projetos e estudos desenvolvidos ao longo da minha trajetória acadêmica, com foco em **Data Science, Bioestatística, Machine Learning, Epidemiologia e análise de dados científicos e em saúde**.
+Este repositório reúne projetos e estudos desenvolvidos ao longo da minha trajetória acadêmica, com foco em **Data Science e análise de dados científicos e em saúde**.
 
-Os projetos apresentados demonstram experiências com **tratamento e exploração de dados, análise estatística, classificação, análise bibliométrica, análise de redes e interpretação de resultados**.
+Os projetos apresentados demonstram experiências com **tratamento e exploração de dados, análise estatística, classificação, análise bibliométrica e interpretação de resultados**.
 
 ---
 
@@ -86,23 +86,6 @@ O estudo também empregou **análise de redes** para explorar relações e padr�
 
 🔗 **[Ver publicação na Springer Nature](https://link.springer.com/article/10.1007/s40670-024-02003-1)**
 
----
 
 
-## Próximos Projetos
 
-Este portfólio será ampliado com projetos envolvendo:
-
-* **Predição de readmissão neonatal**
-* **Machine Learning aplicado a dados de saúde**
-* **Integração e linkage de bases de dados do SUS**
-* **Análise de grandes bases de dados epidemiológicos**
-* **Modelos estatísticos e de aprendizado de máquina**
-
----
-
-## Contato
-
-**LinkedIn:** [linkedin.com/in/jessicadeandrade27](https://www.linkedin.com/in/jessicadeandrade27)
-
-**GitHub:** [github.com/jessicaandradeg-dot](https://github.com/jessicaandradeg-dot)
