@@ -1,106 +1,99 @@
-Research & Data Science Portfolio
+# Data Science Portfolio
 
-This repository brings together research projects involving data analysis, scientific databases, descriptive statistics, literature integrity, and reproducible research.
+**Jéssica de Andrade Gomes**
+Mestre e Doutoranda em Engenharia Biomédica — **UFRJ/COPPE**
 
-Projects
+Este repositório reúne projetos de pesquisa e análise de dados desenvolvidos ao longo da minha formação acadêmica, com foco em **Data Science, Bioestatística, Machine Learning, Epidemiologia e dados em saúde**.
 
-01 — Scientific Retractions by Brazilian Authors in Engineering
+---
 
-Article: Scientific Retractions by Brazilian Authors in Engineering: A Descriptive Study Using the Retraction Watch/Crossref Database
+## 🔬 Projetos
 
-This study analyzes scientific retractions involving Brazilian-affiliated authors in engineering using the Retraction Watch/Crossref database.
+### 01. Scientific Retractions by Brazilian Authors in Engineering
 
-Data and analysis highlights
+**Artigo:** *Scientific Retractions by Brazilian Authors in Engineering: A Descriptive Study Using the Retraction Watch/Crossref Database*
 
-Retraction Watch/Crossref database with 71,106 records (accessed July 2026)
+Estudo descritivo sobre retrações científicas envolvendo autores com afiliação brasileira na área de Engenharia, utilizando a base **Retraction Watch/Crossref**.
 
-Filtering of records associated with Brazil
+**Análise realizada:**
 
-Initial investigation of Biomedical Engineering
+* Base com **71.106 registros**
+* Filtragem de registros relacionados ao **Brasil**
+* Investigação inicial em **Engenharia Biomédica**
+* Expansão para diferentes subáreas da Engenharia
+* Amostra final de **29 retrações**
+* Classificação dos motivos das retrações
+* Análise descritiva por categoria e subárea
 
-Expansion to engineering subfields after no specific BME cases were identified
+**Principais competências:**
 
-Final analytical sample of 29 retractions
+`Data Cleaning` `Data Filtering` `Descriptive Statistics` `Data Classification` `Research Data Analysis` `Scientific Databases`
 
-Classification of retraction reasons into three categories
+📄 **[Leia o artigo](./01_retracoes_engenharia/artigo_retracoes_engenharia.pdf)**
 
-Descriptive analysis by reason and engineering subfield
+---
 
-Main findings
+### 02. Persistence of Unmarked Retracted Articles in Academic Social Networks
 
-488 records were associated with Brazil after the initial country filter.
+**Artigo:** *An analysis of the persistent availability of unmarked retracted articles in academic social networks*
 
-29 engineering-related retractions were identified for the final analysis.
+Estudo transversal que investiga a permanência de artigos científicos retratados em plataformas acadêmicas sem indicação clara de sua retratação.
 
-The cases were classified as fraud/error/data issues (10), plagiarism/duplication (9), and other reasons (10).
+**Análise realizada:**
 
-Chemical Engineering accounted for 11 cases, followed by Structural (7), Electrical (5), Mechanical (3), and General Engineering (3).
+* Dados da **Retraction Watch**
+* Artigos relacionados ao **Brasil**
+* Área de **Ciências da Saúde**
+* Publicações entre **2010 e 2020**
+* Análise das plataformas **ResearchGate e Academia.edu**
+* Dados de citações do **Google Scholar**
+* Comparação entre citações antes e após a retratação
+* **Correlação de Spearman**
 
-Skills demonstrated
-Data Cleaning Data Filtering Descriptive Statistics Categorical Classification Research Data Analysis Scientific Databases Research Integrity
+**Principais resultados:**
 
-Read the article
+* **66 retrações** atenderam aos critérios do estudo
+* **22 artigos completos** foram encontrados sem indicação de retratação
+* Foram identificados ainda **7 resumos** sem indicação de retratação
+* Os artigos completos apresentaram **730 citações pós-retratação**
+* A correlação entre tempo até a retratação e citações pós-retratação não foi estatisticamente significativa (**ρ = −0,108; p = 0,631**)
 
-02 — Persistence of Unmarked Retracted Articles in Academic Social Networks
+**Principais competências:**
 
-Article: An analysis of the persistent availability of unmarked retracted articles in academic social networks
+`Data Collection` `Data Filtering` `Exploratory Data Analysis` `Descriptive Statistics` `Correlation Analysis` `Scientific Literature Analysis`
 
-This cross-sectional study investigates whether retracted scientific publications remain available on academic sharing platforms without clear retraction warnings.
+📄 **[Leia o artigo](./02_artigos_retratados_redes_academicas/artigo_retratacoes_redes_academicas.pdf)**
 
-Data and analysis highlights
+---
 
-Retraction Watch database
+## 💻 Áreas de interesse
 
-Brazilian first-author affiliations
+* **Data Science**
+* **Machine Learning**
+* **Bioestatística**
+* **Epidemiologia**
+* **Health Data**
+* **Scientific Data Analysis**
+* **Research Integrity**
 
-Health sciences
+---
 
-Publications from 2010–2020
+## 🚀 Próximos projetos
 
-ResearchGate and Academia.edu
+Este portfólio será expandido com projetos envolvendo:
 
-Google Scholar citation data
+* **Machine Learning aplicado à saúde**
+* **Predição de readmissão neonatal**
+* **Análise de grandes bases públicas de saúde**
+* **Modelos estatísticos**
+* **Visualização de dados**
+* **Data preprocessing e feature engineering**
 
-Comparison of pre- and post-retraction citations
+---
 
-Spearman correlation analysis
+## 📫 Sobre mim
 
-Main findings
+**Jéssica de Andrade Gomes**
+Mestre e Doutoranda em Engenharia Biomédica — **UFRJ/COPPE**
 
-66 retractions met the study criteria.
-
-22 full-text retracted papers were found unmarked on the analyzed platforms.
-
-7 additional unmarked abstracts were identified.
-
-The 22 full papers accumulated 730 post-retraction citations.
-
-A Spearman correlation between time from publication to retraction and post-retraction citations was not statistically significant (ρ = −0.108, p = 0.631).
-
-Skills demonstrated
-Data Collection Data Filtering Exploratory Data Analysis Descriptive Statistics Correlation Analysis Scientific Literature Analysis Research Data
-
-Read the article
-
-About the author
-
-Jéssica de Andrade Gomes
-Mestre e Doutoranda em Engenharia Biomédica — UFRJ/COPPE
-
-Research interests include:
-
-Data Science
-
-Biostatistics
-
-Machine Learning
-
-Epidemiology
-
-Health Data
-
-Scientific and Biomedical Research
-
-Note
-
-The repository currently focuses on the published research outputs. Future versions may include analysis notebooks, data dictionaries, visualizations, and reproducible analysis workflows when the underlying data and code can be shared appropriately.
+Interesses em **Data Science, Bioestatística, Machine Learning e Epidemiologia**, com experiência em análise de bases de dados em saúde e pesquisa científica.
