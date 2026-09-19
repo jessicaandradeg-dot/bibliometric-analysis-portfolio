@@ -29,7 +29,7 @@ Estudo descritivo sobre retrações científicas envolvendo autores com afiliaç
 
 `Data Cleaning` `Data Filtering` `Descriptive Statistics` `Data Classification` `Research Data Analysis` `Scientific Databases`
 
-📄 [Leia o artigo completo](./artigo_retratacoes_engenharia.pdf)
+📄 [Leia o artigo completo](./artigo_retracoes_engenharia.pdf)
 
 ---
 
@@ -62,7 +62,7 @@ Estudo transversal que investiga a permanência de artigos científicos retratad
 
 `Data Collection` `Data Filtering` `Exploratory Data Analysis` `Descriptive Statistics` `Correlation Analysis` `Scientific Literature Analysis`
 
-📄 [Leia o artigo completo](./artigo_retratacoes_redes_academicas.pdf)
+📄 [Leia o artigo completo](./artigo_retracoes_redes_academicas.pdf)
 
 
 ## 🚀 Próximos projetos
