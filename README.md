@@ -87,6 +87,19 @@ About the author
 Jéssica de Andrade Gomes
 Mestre e Doutoranda em Engenharia Biomédica — UFRJ/COPPE
 
+Research interests include:
+
+Data Science
+
+Biostatistics
+
+Machine Learning
+
+Epidemiology
+
+Health Data
+
+Scientific and Biomedical Research
 
 Note
 
