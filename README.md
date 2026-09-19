@@ -132,4 +132,4 @@ Este portfólio demonstra experiência principalmente nas seguintes áreas:
 
 Os projetos apresentados neste repositório fazem parte da minha trajetória acadêmica e de pesquisa em **Engenharia Biomédica, análise de dados científicos e aplicação de métodos quantitativos à pesquisa em saúde e ciência**.
 
-Atualmente, sou **doutoranda em Engenharia Biomédica pela UFRJ/COPPE**, com interesse em **Data Science, Machine Learning, Estatística e Inteligência Artificial aplicada à saúde**.
+
