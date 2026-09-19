@@ -75,12 +75,3 @@ Este portfólio será expandido com projetos envolvendo:
 * **Modelos estatísticos**
 * **Visualização de dados**
 * **Data preprocessing e feature engineering**
-
----
-
-## 📫 Sobre mim
-
-**Jéssica de Andrade Gomes**
-Mestre e Doutoranda em Engenharia Biomédica — **UFRJ/COPPE**
-
-Interesses em **Data Science, Bioestatística, Machine Learning e Epidemiologia**, com experiência em análise de bases de dados em saúde e pesquisa científica.
