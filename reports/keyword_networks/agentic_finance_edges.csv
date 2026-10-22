@@ -1,0 +1,29 @@
+source,target,cooccurrence
+agent-based models,financial markets,1
+agent-based models,market dynamics,1
+automated negotiation,energy trading,1
+automated negotiation,market design,1
+automated negotiation,multi-agent systems,1
+autonomous agents,deployment,1
+autonomous agents,finance,1
+autonomous agents,governance,1
+autonomous agents,large language models,1
+autonomous commerce,consumer dynamics,1
+autonomous commerce,machine customers,1
+consumer dynamics,machine customers,1
+deployment,finance,1
+deployment,governance,1
+deployment,large language models,1
+energy trading,market design,1
+energy trading,multi-agent systems,1
+finance,governance,1
+finance,large language models,1
+financial markets,market dynamics,1
+financial trading,large language models,1
+financial trading,memory,1
+financial trading,multi-agent systems,1
+governance,large language models,1
+large language models,memory,1
+large language models,multi-agent systems,1
+market design,multi-agent systems,1
+memory,multi-agent systems,1

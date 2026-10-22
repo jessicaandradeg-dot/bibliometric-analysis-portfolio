@@ -14,6 +14,23 @@ Os projetos demonstram experiência em diferentes etapas da análise de dados ci
 
 ## Projetos
 
+### 00. Pilotos de revisão temática: voz corporativa e economia agêntica
+
+Dois protocolos exploratórios documentam strings de busca no OpenAlex, critérios de inclusão/exclusão, um fluxo de seleção no estilo PRISMA e uma tabela de extração inicial. Os temas são **Speech Emotion Recognition e comunicação corporativa** e **economia agêntica em finanças**.
+
+O escopo está explicitamente limitado a uma amostra de títulos retornados nas primeiras páginas de busca: não houve deduplicação integral, triagem de texto completo ou revisão sistemática concluída. A pequena rede de coocorrência usa termos temáticos harmonizados manualmente a partir dos títulos e metadados selecionados; não representa palavras-chave fornecidas pelos autores nem resultados bibliométricos de corpus completo.
+
+- [Protocolo: Speech Emotion Recognition e comunicação corporativa](./reviews/ser_corporate_communication.md)
+- [Protocolo: economia agêntica em finanças](./reviews/agentic_finance.md)
+- [Tabela de extração dos estudos-semente](./data/studies.csv)
+- [Script e instruções para as redes de coocorrência](./tools/keyword_network.py)
+- [Rede de termos sobre SER corporativo — GraphML](./reports/keyword_networks/ser_corporate_communication.graphml) · [Arestas CSV](./reports/keyword_networks/ser_corporate_communication_edges.csv)
+- [Rede de termos sobre economia agêntica — GraphML](./reports/keyword_networks/agentic_finance.graphml) · [Arestas CSV](./reports/keyword_networks/agentic_finance_edges.csv)
+
+Para gerar as tabelas de nós/arestas e os arquivos GraphML, execute na raiz do repositório `python tools/keyword_network.py`. Para validar a ferramenta, execute `python -m pytest`.
+
+**Lacunas preliminares para investigação:** validade e transparência da inferência de emoção em contextos de trabalho; generalização entre idioma, cultura, canal e ambiente acústico; privacidade e governança de voz; e, na economia agêntica, avaliação de negociação além de simuladores, identidade/autorização de agentes, auditabilidade, proteção do consumidor e integração segura com pagamentos. São hipóteses de agenda derivadas de uma amostra pequena, não conclusões de revisão sistemática.
+
 ### 01. Scientific Retractions by Brazilian Authors in Engineering
 
 **Scientific Retractions by Brazilian Authors in Engineering: A Descriptive Study Using the Retraction Watch/Crossref Database**
@@ -131,5 +148,3 @@ Este portfólio demonstra experiência principalmente nas seguintes áreas:
 ## Sobre
 
 Os projetos apresentados neste repositório fazem parte da minha trajetória acadêmica e de pesquisa em **Engenharia Biomédica, análise de dados científicos e aplicação de métodos quantitativos à pesquisa em saúde e ciência**.
-
-

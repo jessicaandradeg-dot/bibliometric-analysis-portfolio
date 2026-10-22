@@ -1,0 +1,19 @@
+source,target,cooccurrence
+ai,ethics,1
+ai,governance,1
+ai,speech emotion recognition,1
+call center,speech emotion recognition,1
+call center,workload allocation,1
+customer service,neural networks,1
+customer service,speech emotion recognition,1
+deep learning,speech emotion recognition,1
+deep learning,systematic review,1
+ethics,governance,1
+ethics,speech emotion recognition,1
+federated learning,privacy,1
+federated learning,speech emotion recognition,1
+governance,speech emotion recognition,1
+neural networks,speech emotion recognition,1
+privacy,speech emotion recognition,1
+speech emotion recognition,systematic review,1
+speech emotion recognition,workload allocation,1

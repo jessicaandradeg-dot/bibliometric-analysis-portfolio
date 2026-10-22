@@ -1,0 +1,13 @@
+keyword,document_frequency,weighted_degree
+ai,1,3
+call center,1,2
+customer service,1,2
+deep learning,1,2
+ethics,1,3
+federated learning,1,2
+governance,1,3
+neural networks,1,2
+privacy,1,2
+speech emotion recognition,5,11
+systematic review,1,2
+workload allocation,1,2
